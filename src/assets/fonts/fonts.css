@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'RobotoRegular';
+  src: url('./RobotoRegular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoMedium';
+  src: url('./RobotoMedium.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoBold';
+  src: url('./RobotoBold.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AndaleMonoRegular';
+  src: url('./AndaleMono.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AppleChancery';
+  src: url('./AppleChancery.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BrunoAceRegular';
+  src: url('./BrunoAceRegular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CharmonmanRegular';
+  src: url('./CharmonmanRegular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreteRoundRegular';
+  src: url('./CreteRoundRegular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFMonoRegular';
+  src: url('./SFMonoRegular.otf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFProBold';
+  src: url('./SFProBold.OTF') format('OTF');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFProMedium';
+  src: url('./SFProMedium.OTF') format('OTF');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFProRegular';
+  src: url('./SFProRegular.OTF') format('OTF');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFProRoundedBold';
+  src: url('./SFProRoundedBold.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFProTextMedium';
+  src: url('./SFProTextMedium.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SyncopateBold';
+  src: url('./SyncopateBold.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
