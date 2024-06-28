@@ -5,7 +5,6 @@ import './App.css';
 const app = (window as any).Telegram?.WebApp;
 
 function App() {
-
   useEffect(() => {
     if (app) {
       app.ready();
